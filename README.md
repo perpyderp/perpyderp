@@ -7,8 +7,8 @@ Hello! I'm Jacob Cuison!
   
 
 I'm currently working on: <br>
--A RESTful API for the survival game: ARK Survival Evolved <br>
--A gamer social media web application
+-A RESTful API for the survival game: ARK Survival Evolved 🦖<br>
+-A gamer social media web application 🎮
 
 [![LinkedIn](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/jacob-cuison/)
 
